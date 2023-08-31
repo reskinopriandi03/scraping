@@ -1,0 +1,17 @@
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+#pyre type checker
+.pyre/
+
+#pytype static type analyzer
+.pytype/
+
+#cython_debug symbols
+cython_debug/
+
+.idea/
+temp/
+
+
